@@ -2,6 +2,8 @@
 
 ## Contents
 
+0. [Curtis is Cool](/deeznuts)
+
 1. [Documentation](/documentation)
    - [Embroidery Machine](/documentation/embroidery-machine)
      - [Training Guide](/documentation/embroidery-machine/training-guide)
