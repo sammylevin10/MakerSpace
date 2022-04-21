@@ -2,32 +2,48 @@
 
 ## Contents
 
-1. [Documentation](#documentation)
-   - [Embroidery Machine](#embroidery-machine)
-   - [Epilog Laser Cutters](#epilog-laser-cutters)
-   - [Form3](#form3)
-   - [Objet](#objet)
-   - [Othermill](#othermill)
-   - [Safety/Ultimaker](#safety-ultimaker)
-   - [Sewing Machine](#sewing-machine)
-   - [ShopBot](#shopbot)
-   - [Stratasys 3D Printers](#stratasys-3d-printers)
-   - [Tormach](#tormach)
-   - [Universal Laser Cutter](#universal-laser-cutters)
-   - [Vacuum Form](#vacuum-form)
-   - [Vinyl Cutter](#vinyl-cutter)
-   - [Waterjet](#waterjet)
-2. [Resources](#resources)
-
-## <a name="documentation"></a>Documentation
-
-### <a name="embroidery-machine"></a>Embroidery Machine
-
-- [Training Guide](/documentation/embroidery-machine/training-guide)
-- [Troubleshooting](/documentation/embroidery-machine)
-
-###E
-
-## <a name="resources"></a>Resources
-
-bla bla bla
+1. [Documentation](/documentation)
+   - [Embroidery Machine](/documentation/embroidery-machine)
+     - [Training Guide](/documentation/embroidery-machine/training-guide)
+     - [Troubleshooting](/documentation/embroidery-machine/troubleshooting)
+   - [Epilog Laser Cutters](/documentation/epilog-laser-cutters)
+     - [Training Guide](/documentation/epilog-laser-cutters/training-guide)
+     - [Troubleshooting](/documentation/epilog-laser-cutters/troubleshooting)
+   - [Form3](/documentation/form3)
+     - [Training Guide](/documentation/form3/training-guide)
+     - [Troubleshooting](/documentation/form3/troubleshooting)
+   - [Objet](/documentation/objet)
+     - [Training Guide](/documentation/objet/training-guide)
+     - [Troubleshooting](/documentation/objet/troubleshooting)
+   - [Othermill](/documentation/othermill)
+     - [Training Guide](/documentation/othermill/training-guide)
+     - [Troubleshooting](/documentation/othermill/troubleshooting)
+   - [Safety/Ultimaker](/documentation/safety-ultimaker)
+     - [Training Guide](/documentation/safety-ultimaker/training-guide)
+     - [Troubleshooting](/documentation/safety-ultimaker/troubleshooting)
+   - [Sewing Machine](/documentation/sewing-machine)
+     - [Training Guide](/documentation/sewing-machine/training-guide)
+     - [Troubleshooting](/documentation/sewing-machine/troubleshooting)
+   - [ShopBot](/documentation/shopbot)
+     - [Training Guide](/documentation/shopbot/training-guide)
+     - [Troubleshooting](/documentation/shopbot/troubleshooting)
+   - [Stratasys 3D Printers](/documentation/stratasys-3d-printers)
+     - [Training Guide](/documentation/stratasys-3d-printers/training-guide)
+     - [Troubleshooting](/documentation/stratasys-3d-printers/troubleshooting)
+   - [Tormach](/documentation/tormach)
+     - [Training Guide](/documentation/tormach/training-guide)
+     - [Troubleshooting](/documentation/tormach/troubleshooting)
+   - [Universal Laser Cutter](/documentation/universal-laser-cutter)
+     - [Training Guide](/documentation/universal-laser-cutter/training-guide)
+     - [Troubleshooting](/documentation/universal-laser-cutter/troubleshooting)
+   - [Vacuum Form](/documentation/vacuum-form)
+     - [Training Guide](/documentation/vacuum-form/training-guide)
+     - [Troubleshooting](/documentation/vacuum-form/troubleshooting)
+   - [Vinyl Cutter](/documentation/vinyl-cutter)
+     - [Training Guide](/documentation/vinyl-cutter/training-guide)
+     - [Troubleshooting](/documentation/vinyl-cutter/troubleshooting)
+   - [Waterjet](/documentation/waterjet)
+     - [Training Guide](/documentation/waterjet/training-guide)
+     - [Troubleshooting](/documentation/waterjet/troubleshooting)
+2. [Resources](/resources)
+   - []
