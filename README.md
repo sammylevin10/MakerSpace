@@ -48,4 +48,5 @@
      - [Training Guide](/documentation/waterjet/training-guide)
      - [Troubleshooting](/documentation/waterjet/troubleshooting)
 2. [Resources](/resources)
-   - []
+   - [Workshops](/resources/workshops)
+   - [Workshops](/resources/workshops)
