@@ -32,7 +32,7 @@
    - [Stratasys 3D Printers](/documentation/stratasys-3d-printers)
      - [Training Guide](/documentation/stratasys-3d-printers/training-guide)
      - [Troubleshooting](/documentation/stratasys-3d-printers/troubleshooting)
-   - [Tormach](/MakerSpace/documentation/tormach)
+   - [Tormach](/documentation/tormach)
      - [Training Guide](/documentation/tormach/training-guide)
      - [Troubleshooting](/documentation/tormach/troubleshooting)
    - [Universal Laser Cutter](/documentation/universal-laser-cutter)
