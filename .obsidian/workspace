@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "documentation/tormach.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/tormach.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "d410ccca3a84cdb1",
   "lastOpenFiles": [
-    "documentation/tormach.md",
     "README.md",
+    "documentation/tormach.md",
     "Othermill.md"
   ]
 }
