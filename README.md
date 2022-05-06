@@ -1,10 +1,17 @@
 # MakerSpace Staff Wiki
 
-If you notice links are out of date or missing when they shouldn't be, visit the issues tab and submit an issue.
+If you notice links are out of date or missing when they shouldn't be, please visit the issues tab and submit an issue.
+
+Use Cmd/Ctrl + F to search for a resource below.
 
 ## Contents
 
-1. [Documentation](/documentation)
+1. [Onboarding](/onboarding)
+
+- [Information for New Hires](/onboarding/information)
+- [Onboarding Tracker](https://docs.google.com/spreadsheets/d/1ijensfGCHbIWEFZGp2XLD9_Ta3-Hz22QOxqHgSnL-0A/edit?usp=sharing)
+
+2. [Documentation](/documentation)
    - [Embroidery Machine](/documentation/embroidery-machine)
      - [Training Guide](/documentation/embroidery-machine/training-guide)
      - [Troubleshooting](/documentation/embroidery-machine/troubleshooting)
@@ -47,9 +54,7 @@ If you notice links are out of date or missing when they shouldn't be, visit the
    - [Waterjet](/documentation/waterjet)
      - [Training Guide](/documentation/waterjet/training-guide)
      - [Troubleshooting](/documentation/waterjet/troubleshooting)
-2. [Resources](/resources)
-   - [Onboarding](/resources/onboading)
-     - [Onboarding Tracker](https://docs.google.com/spreadsheets/d/1ijensfGCHbIWEFZGp2XLD9_Ta3-Hz22QOxqHgSnL-0A/edit?usp=sharing)
+3. [Resources](/resources)
    - [On-shift resources](/resources/on-shift-resources)
      - [Weekly Schedule](https://docs.google.com/spreadsheets/d/1DvZppkM8_vzy6hV-yGnDh24kYfII4tdXHhQNy2Cv6hs/edit?usp=sharing)
      - [Tasks on Shift](https://docs.google.com/spreadsheets/d/1kxXiHcTsJ2LDhlTwOHUFjdptSrCXymUWKmQuXieOtsQ/edit?usp=sharing)
