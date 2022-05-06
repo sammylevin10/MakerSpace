@@ -2,15 +2,13 @@
 
 If you notice links are out of date or missing when they shouldn't be, please visit the issues tab and submit an issue.
 
-Use Cmd/Ctrl + F to search for a resource below.
+Use `Cmd/Ctrl + F` to search for a resource below.
 
 ## Contents
 
 1. [Onboarding](/onboarding)
-
-- [Information for New Hires](/onboarding/information)
-- [Onboarding Tracker](https://docs.google.com/spreadsheets/d/1ijensfGCHbIWEFZGp2XLD9_Ta3-Hz22QOxqHgSnL-0A/edit?usp=sharing)
-
+   - [Information for New Hires](/onboarding/information)
+   - [Onboarding Tracker](https://docs.google.com/spreadsheets/d/1ijensfGCHbIWEFZGp2XLD9_Ta3-Hz22QOxqHgSnL-0A/edit?usp=sharing)
 2. [Documentation](/documentation)
    - [Embroidery Machine](/documentation/embroidery-machine)
      - [Training Guide](/documentation/embroidery-machine/training-guide)
