@@ -7,7 +7,7 @@ Use `Cmd/Ctrl + F` to search for a resource below.
 ## Contents
 
 1. [Onboarding](/onboarding)
-   - [Information for New Hires](/onboarding/information)
+   - [Information for New Hires](/onboarding/information.md)
    - [Onboarding Tracker](https://docs.google.com/spreadsheets/d/1ijensfGCHbIWEFZGp2XLD9_Ta3-Hz22QOxqHgSnL-0A/edit?usp=sharing)
 2. [Documentation](/documentation)
    - [Embroidery Machine](/documentation/embroidery-machine)
