@@ -1,8 +1,8 @@
 # MakerSpace Staff Wiki
 
-## Contents
+If you notice links are out of date or missing when they shouldn't be, visit the issues tab and submit an issue.
 
-0. [Curtis is Cool](/dozenuts)
+## Contents
 
 1. [Documentation](/documentation)
    - [Embroidery Machine](/documentation/embroidery-machine)
@@ -48,5 +48,13 @@
      - [Training Guide](/documentation/waterjet/training-guide)
      - [Troubleshooting](/documentation/waterjet/troubleshooting)
 2. [Resources](/resources)
+   - [Onboarding](/resources/onboading)
+     - [Onboarding Tracker](https://docs.google.com/spreadsheets/d/1ijensfGCHbIWEFZGp2XLD9_Ta3-Hz22QOxqHgSnL-0A/edit?usp=sharing)
+   - [On-shift resources](/resources/on-shift-resources)
+     - [Weekly Schedule](https://docs.google.com/spreadsheets/d/1DvZppkM8_vzy6hV-yGnDh24kYfII4tdXHhQNy2Cv6hs/edit?usp=sharing)
+     - [Tasks on Shift](https://docs.google.com/spreadsheets/d/1kxXiHcTsJ2LDhlTwOHUFjdptSrCXymUWKmQuXieOtsQ/edit?usp=sharing)
+     - [Training Schedule](https://docs.google.com/spreadsheets/d/1z4FrD-g9PKLo3b3J6XLjfhbVOxVH8W6SG_jKhh_FvYk/edit?usp=sharing)
    - [Workshops](/resources/workshops)
-   - [Workshops](/resources/workshops)
+     - [Slide Decks and Templates](https://drive.google.com/drive/folders/1RhC2z-8T0hl8Crb9yiDlXBoSh9dGSmuJ?usp=sharing)
+     - [How to Lead a Workshop](https://docs.google.com/presentation/d/1UJ-b0SrVZdVbFAUveDP8LUDcmOa8qJbGIwqKx1Dcp4I/edit?usp=sharing)
+     - [How to Build a Workshop](https://docs.google.com/presentation/d/12v2VacEOOfru4An8ArtJIw2_i5bZqgUV6on5xLxk2cw/edit?usp=sharing)
